@@ -1,0 +1,16 @@
+=== Joint GRBM Evaluation Results ===
+Temperature: 0.25
+
+Reconstruction (y):
+  Step 50: MSE = 0.067580 ± 0.007170
+
+Forward (x→y):
+  Step 50: MSE = 0.067071 ± 0.006142
+
+Inverse (y→x):
+  t':
+    Step 50: MAE = 0.274822 ± 0.218501
+  t'':
+    Step 50: MAE = 0.275412 ± 0.207456
+  J:
+    Step 50: MAE = 0.293629 ± 0.237524
